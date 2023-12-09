@@ -1,2 +1,2 @@
-# hugoQuickstart
-Hugo Quickstart
+# hugoEntotechWeb
+Hugo Entotech Web
