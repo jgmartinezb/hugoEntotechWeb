@@ -2,17 +2,16 @@ name: GitHub Actions Build and Deploy Demo
 on:
   push:
     branches:
-      - main
+    - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
-      uses: jakejarvis/s3-sync-action@master
-      with:
-        args: --acl public-read --follow-symlinks --delete --exclude '.git*/*'
-      env:
-        AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET_ENTOTECH_WEB }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID_ENTOTECH_WEB }}
-        AWS_SECRET_ACCESS_ID: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - uses: actions/checkout@master
+      - uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete --exclude '.git*/*'
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET_ENTOTECH_WEB }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID_ENTOTECH_WEB }}
+          AWS_SECRET_ACCESS_ID: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
