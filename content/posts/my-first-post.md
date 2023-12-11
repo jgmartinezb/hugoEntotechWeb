@@ -1,5 +1,5 @@
 +++
-title = 'Entotech IS ALIVE'
+title = 'Entotech IS ALIVE (VAMOOOOS)'
 date = 2023-12-09T17:19:18+01:00
 +++
 
