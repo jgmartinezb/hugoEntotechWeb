@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/users/jgmar/Desktop/repoEntotech/hugoEntotechWeb",
+	"sourceRoot": "C:/Users/jgmar/Desktop/repoEntotech/hugoEntotechWeb",
 	"sources": [
 		"ananke/css/main.css"
 	],
