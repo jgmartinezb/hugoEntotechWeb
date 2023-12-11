@@ -1,4 +1,4 @@
-name: GitHub Actions Build
+name: Upload Entotech Web Files
 
 on:
   push:
@@ -22,3 +22,4 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'
           SOURCE_DIR: 'public/'
+          SOURCE_DIR: 'themes'
