@@ -1,4 +1,53 @@
-baseURL = 'http://entotechsolution.com/'
-languageCode = 'en-us'
-title = 'Entotech is alive'
-theme = 'hugo-arogya-theme'
+languageCode = "en-us"
+title = "Arogya"
+theme = "hugo-arogya-theme"
+themesDir = "themes/"
+
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+[Params]
+CompanyName = "Entotech Solutions"
+secureToken = "" #add your secure token
+fromMail = "entotechsolution@gmail.com "
+bccMail = "jgmartinezb@gmail.com"
+
+[Languages]
+[Languages.en]
+languageName = "EN"
+weight = 1
+languageCode = "en-US"
+address = "Avinguda Pearson 16, Barcelona (Spain)"
+imageratio = "1 1.5 2 3"
+fillposition = "center"
+format= "webp"
+imagewidth = "390"
+sliderimagewidth ="1350"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+# en menu
+
+[[Languages.en.menu.main]]
+name    ="Entotech Solutions"
+url     = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name    ="Nuestro Valor"
+url     ="valor"
+weight = 2
+
+[[Languages.en.menu.main]]
+name    ="Quienes somos"
+url     ="equipo"
+weight = 3
+
+[[Languages.en.menu.main]]
+name    ="Contacto"
+url     ="contactus"
+weight = 4
