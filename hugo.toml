@@ -1,3 +1,5 @@
+baseURL = 'http://www.entotechsolution.com/'
+
 languageCode = "en-us"
 title = "Arogya"
 theme = "hugo-arogya-theme"
