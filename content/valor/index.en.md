@@ -1,7 +1,7 @@
 ---
 title: "Nuestro Valor"
 date: 2022-05-31T10:02:12+05:30
-draft: true
+draft: false
 weight: 1
 image: "herbs.jpg"
 ---

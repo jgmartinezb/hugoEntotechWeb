@@ -1,7 +1,7 @@
 ---
 #title: "Contacto"
 date: 2022-05-31T10:04:20+05:30
-draft: true
+draft: false
 weight: 4
 image: "contactus.jpg"
 ---
