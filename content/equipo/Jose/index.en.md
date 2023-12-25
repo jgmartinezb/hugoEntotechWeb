@@ -1,7 +1,7 @@
 ---
 title: "Jose"
 date: 2022-05-31T09:57:41+05:30
-draft: true
+draft: false
 image: "joint-pain.jpg"
 ---
 
