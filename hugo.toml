@@ -1,7 +1,7 @@
 baseURL = "http://www.entotechsolution.com/"
 
 languageCode = "en-us"
-title = "Entotech Solution"
+# title = "Entotech Solution"
 theme = "hugo-arogya-theme"
 themesDir = "themes/"
 
