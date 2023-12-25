@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nuestro Valor on </title>
-    <link>https://www.entotechsolution.com/en/valor/</link>
+    <link>https://entotechsolution.com/en/valor/</link>
     <description>Recent content in Nuestro Valor on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 31 May 2022 10:02:12 +0530</lastBuildDate>
-    <atom:link href="https://www.entotechsolution.com/en/valor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://entotechsolution.com/en/valor/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
