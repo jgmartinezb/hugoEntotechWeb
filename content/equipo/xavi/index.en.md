@@ -1,7 +1,7 @@
 ---
 title: "Xavier Roca"
 date: 2022-05-31T09:58:37+05:30
-draft: true
+draft: false
 image: "XavierRoca.jpg"
 ---
 

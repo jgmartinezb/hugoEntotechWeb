@@ -1,7 +1,7 @@
 ---
 title: "Jordi Cassany"
 date: 2022-05-31T09:58:13+05:30
-draft: true
+draft: false
 image: "jordiCassany.png"
 ---
 
