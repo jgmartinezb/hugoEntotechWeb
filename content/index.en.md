@@ -1,7 +1,7 @@
 ---
-#title: "Entotech Solutions"
+title: "Entotech Solutions"
 date: 2022-05-31T09:45:39+05:30
-draft: true
+draft: false
 weight: 1
 image: "home.jpg"
 ---
