@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arogya</title>
+    <title>Entotech Solution</title>
     <link>http://www.entotechsolution.com/en/</link>
-    <description>Recent content on Arogya</description>
+    <description>Recent content on Entotech Solution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="http://www.entotechsolution.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entotech Solutions</title>
+      <link>http://www.entotechsolution.com/en/</link>
+      <pubDate>Tue, 31 May 2022 09:45:39 +0530</pubDate>
+      <guid>http://www.entotechsolution.com/en/</guid>
+      <description>MISSION: Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;VISION: Our vision Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
   </channel>
 </rss>
