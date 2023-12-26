@@ -1,9 +1,9 @@
 ---
-title: "¿Quienes somos?"
+#title: "¿Quienes somos?"
 date: 2022-05-31T10:01:52+05:30
 draft: false
 weight: 3
-image: "deseases.jpg"
+#image: "deseases.jpg"
 ---
 
 disease, any harmful deviation from the normal structural or functional state of an organism, generally associated with certain signs and symptoms and differing in nature from physical injury. A diseased organism commonly exhibits signs or symptoms indicative of its abnormal state. Thus, the normal condition of an organism must be understood in order to recognize the hallmarks of disease. Nevertheless, a sharp demarcation between disease and health is not always apparent.
