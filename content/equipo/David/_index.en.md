@@ -19,5 +19,3 @@ It is accompanied by some ayurvedic herbs which are given in it.
 Kchnar, Google, Punarvava Bhandur,
 
 In addition to these two medicines, Only Ayurved has come up with an excellent medicine for you. Using it can stop your lifelong thyroid medication, and even without any side effects. The drug is called Thyro booster. So let's find out today.
-
-{{< list-next-button >}}

@@ -13,5 +13,3 @@ Consuming as much cauliflower as possible in daily meals relieves joint pain. Jo
 Half a cup of sugar taken twice a day in dry coriander and eating 1-1 tablespoon of sugar every morning and evening with a lot of chewing and then not drinking water for an hour cures some kind of joint pain.
 Regular consumption of decoction of Ashoka tree leaves or its bark relieves joint pain.
 Roast the dried nodules of turmeric with a piece of ginger of the same weight and take 1-1 teaspoon of powdered sugar daily with water in the morning and evening to relieve joint pain.
-
-{{< detail-next-previous-btn >}}
