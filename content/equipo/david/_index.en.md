@@ -1,5 +1,5 @@
 ---
-title: "Jordi Cassany"
+title: "David Roca"
 date: 2022-05-31T09:58:37+05:30
 draft: false
 image: "xavierRoca.jpg"
