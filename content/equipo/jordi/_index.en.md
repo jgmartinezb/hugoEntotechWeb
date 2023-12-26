@@ -5,7 +5,7 @@ draft: false
 image: "xavierRoca.jpg"
 ---
 
-<h4>Veterinaria - UAB</h4><br><br>
+<h4>Veterinaria - UAB</h4>
 
 Master en producción animal y cienciade los alimentos - UAB
 
