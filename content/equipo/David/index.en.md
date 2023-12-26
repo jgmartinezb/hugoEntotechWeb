@@ -2,7 +2,7 @@
 title: "David Roca"
 date: 2022-05-31T09:55:54+05:30
 draft: false
-image: "davidRoca.png"
+image: "davidRoca.jpg"
 ---
 
 
