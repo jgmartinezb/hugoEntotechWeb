@@ -2,7 +2,7 @@
 title: "Xavier Roca"
 date: 2022-05-31T09:58:37+05:30
 draft: false
-image: "XavierRoca.jpg"
+image: "xavierRoca.jpg"
 ---
 
 <h4>Veterinaria - UAB</h4><br><br>
