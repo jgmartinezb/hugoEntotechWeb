@@ -5,12 +5,10 @@ draft: false
 image: "xavierRoca.jpg"
 ---
 
-<h4>Veterinaria - UAB</h4><br><br>
+<h3> ¡Qué aporta a Entotech!</h3>
+Profesional de la educación con una sólida experiencia en liderazgo y comunicación efectiva. Durante 7 años, trabajé como tutor de clases de primaria, desarrollando habilidades sociales y de gestión de conflictos.
 
-Master en producción animal y cienciade los alimentos - UAB
+Persona muy motivada, con un deseo constante de aprender y superarme a mí mismo. Actualmente, lidero este proyecto de creación de una fábrica de ingredientes para el pet food, donde utilizo mi experiencia enliderazgo y habilidades decomunicación para dirigir y motivar ami equipo 
 
-Gran experiencia técnica en el área dela producción y nutrición animal y losprocesos industriales, sobre todo en larecuperación, reaprovechamiento yreciclaje de alimentos para laalimentación animal. Colaborador enproyectos de I+D+I tanto europeos(INNOPROTEIN 2021) como nacionales(NATURDEV 2019).
-
-Con ello, Xavier aporta una visión técnica y rigurosa en el desarrollo delproyecto, lo que permitirá laelaboración de productos de altacalidad y cumpliendo con los más altosestándares de seguridad alimentaria.
-
-{{< detail-next-previous-btn >}}
+<h3> Conocimiento:</h3>
+<li>Educación primaria - UB</li>

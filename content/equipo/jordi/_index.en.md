@@ -5,12 +5,11 @@ draft: false
 image: "xavierRoca.jpg"
 ---
 
-<h4>Veterinaria - UAB</h4>
+<h3> ¡Qué aporta a Entotech!</h3>
+Experiencia profesional en el área de Estrategia en EY y responsable de Estrategia en Equatorial Coca-Cola, le brinda una perspectiva única en la gestión de proyectos empresariales y en la comprensión de los comportamientos del mercado.
 
-Master en producción animal y cienciade los alimentos - UAB
+Con ello, la presencia de Jordi como advisor del proyecto aportará experiencia y conocimientos y una visión estratégica, financiera y empresarial clave para la toma de decisiones y el éxito del proyecto.
 
-Gran experiencia técnica en el área dela producción y nutrición animal y losprocesos industriales, sobre todo en larecuperación, reaprovechamiento yreciclaje de alimentos para laalimentación animal. Colaborador enproyectos de I+D+I tanto europeos(INNOPROTEIN 2021) como nacionales(NATURDEV 2019).
-
-Con ello, Xavier aporta una visión técnica y rigurosa en el desarrollo delproyecto, lo que permitirá laelaboración de productos de altacalidad y cumpliendo con los más altosestándares de seguridad alimentaria.
-
-{{< detail-next-previous-btn >}}
+<h3> Conocimiento:</h3>
+<li>ADE - UNAV</li>
+<li>EMBA - IESE Business School</li>

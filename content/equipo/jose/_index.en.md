@@ -5,10 +5,11 @@ draft: false
 image: "xavierRoca.jpg"
 ---
 
-<h4>Veterinaria - UAB</h4><br><br>
+<h3> ¡Qué aporta a Entotech!</h3>
+Experiencia profesional en el área de desarrollo de software médico enfocado a la definición de producto, además de aportar la experencia de haber trabajado en los departamentos de Calidad y Operaciones en el desarrollo de productos tecnológicos en la empresa HP INC (Hewlett-Packard).
 
-Master en producción animal y cienciade los alimentos - UAB
+La presencia de Jose contribuye en una experencia transversal de la empresa respecto la definición, implementación, y soporte del producto.
 
-Gran experiencia técnica en el área dela producción y nutrición animal y losprocesos industriales, sobre todo en larecuperación, reaprovechamiento yreciclaje de alimentos para laalimentación animal. Colaborador enproyectos de I+D+I tanto europeos(INNOPROTEIN 2021) como nacionales(NATURDEV 2019).
-
-Con ello, Xavier aporta una visión técnica y rigurosa en el desarrollo delproyecto, lo que permitirá laelaboración de productos de altacalidad y cumpliendo con los más altosestándares de seguridad alimentaria.
+<h3> Conocimiento:</h3>
+<li>Ingenieria de Telecomunicaciones</li>
+<li>EMBA - IESE Business School</li>
