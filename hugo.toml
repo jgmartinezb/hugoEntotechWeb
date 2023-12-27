@@ -14,7 +14,7 @@ googleAnalytics = "" # your analitics ID
 [Params]
 CompanyName = "Entotech Solutions"
 secureToken = "" #add your secure token
-fromMail = "entotechsolution@gmail.com "
+fromMail = "entotechsolution@gmail.com"
 bccMail = "jgmartinezb@gmail.com"
 
 [Languages]
