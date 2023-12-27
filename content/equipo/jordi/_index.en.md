@@ -2,7 +2,7 @@
 title: "Jordi Cassany"
 date: 2022-05-31T09:58:37+05:30
 draft: false
-image: "xavierRoca.jpg"
+image: "jordiCassany.jpg"
 ---
 
 <h3> ¡Qué aporta a Entotech!</h3>
