@@ -1,11 +1,11 @@
 ---
-title: "Nuestra Propuesta de Valor"
+title: "Propuesta de Valor"
 date: 2022-05-31T10:02:12+05:30
 draft: false
 weight: 2
 image: "propuestaValor.jpg"
 ---
-<H2>Propuesta de Valor</H2></br>
+<H2>Nuestra Propuesta de Valor</H2></br>
 
 <H3>Entotech Solutions</H3>
 
