@@ -41,7 +41,7 @@ url     = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name    ="Nuestro Valor"
+name    ="Propuesta de Valor"
 url     ="valor"
 weight = 2
 
