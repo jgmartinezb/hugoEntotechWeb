@@ -1,6 +1,6 @@
 ---
 title: "Eficientar proceso"
-description: "Primer Fase -- Prueba Piloto: Eficientar proceso transformación residuos orgánicos"
+description: "Primera Fase - Prueba piloto: Eficientar proceso transformación residuos orgánicos"
 date: 2022-05-31T10:02:12+05:30
 draft: false
 image: "pruebaPiloto.jpg"
