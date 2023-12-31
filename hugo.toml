@@ -16,6 +16,7 @@ CompanyName = "Entotech Solutions"
 secureToken = "" #add your secure token
 fromMail = "entotechsolution@gmail.com"
 bccMail = "jgmartinezb@gmail.com"
+numpage = "page_0"
 
 [Languages]
 [Languages.en]

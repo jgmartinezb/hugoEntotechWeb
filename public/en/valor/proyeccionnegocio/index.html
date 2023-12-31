@@ -84,7 +84,7 @@
         
         
           
-          <li class=" ">
+          <li class="  active ">
         
     <a href="https://entotechsolution.com/en/valor">Propuesta de Valor</a>
   </li>
@@ -110,7 +110,7 @@
         
         
           
-          <li class="  active ">
+          <li class=" ">
         
     <a href="https://entotechsolution.com/en/contactus">Contacto</a>
   </li>
@@ -142,185 +142,37 @@
 
   
         <div id="content">
-<div id="contact" class="container-fluid bg-grey">
+<div class="container-fluid bg-grey">
    
-   <div class="row">
-     <div class="col-sm-5">
-      <div class = "entry-content" itemprop = "text">
-<h1 style = "color: # 00a302; font-size: 26px" class = "has-text-color has-text-align-center"> <strong>Compañia:</strong>  Entotech Solutions </h1> <br/>
-<p style = "color: # 00a302" class = "has-text-color has-text-align-center has-medium-font-size"> <strong>Dirección:</strong>  Calle Avinguda Persona 6, Barcelona (Spain) </p>
-<p style = "color: # 00a302" class = "has-text-color has-text-align-center has-medium-font-size"> <strong>E-mail:</strong>  entotechSolution@gmail.com </p>
-<p style = "color: # 00a302" class = "has-text-color has-text-align-center has-medium-font-size"> <strong>Teléfono:</strong>  (+34) XXXXXXXX </p>
-</div>
-      
-     </div>
+   <p><H3>Proyección del negocio</H3>
+<div style="overflow-x:auto;">
+<table class="styled-table"> 
+<thead>
+<tr><th>Fases del negocio</th> <th>Iniciativa</th> <th>Objetivo</th> <th>Estimación de tiempo</th></tr>
+</thead>
+<tbody> 
+<tr><td>Primera Fase</td> <td>Prueba Piloto “Procesado residuos orgánicos”</td> <td>Eficientar el proceso del crecimiento de la larva BSF*</td><td>1 Año</td></tr> 
+<tr><td>Segunda Fase</td> <td>Prueba Piloto “Integración Incubadora”</td> <td>Integración vertical del proceso del cultivo moscas</td><td>2 Año</td></tr>
+<tr><td>Tercera Fase</td> <td>Apertura a nuevas aplicaciones</td> <td>Cultivo  industrial, Otras aplicaciones...</td><td>3 Año</td></tr>
+</tbody></table></br>
+</div></p>
+   
 
-     <div class="col-sm-6">
-       
-<div class="row">
-   <div class="col-sm-6 form-group">
-      <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
-   </div>
-   <div class="col-sm-6 form-group">
-      <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
-   </div>
-</div>
-
-
-
-<textarea class="form-control" id="feedback" name="feedback" placeholder="Feedback" rows="3"></textarea>
-<br>
-<div class="row">
-   <div class="col-sm-12 form-group">
-      
-      <button class="btn btn-default pull-right" type="submit" id="submitbtn">Send</button>
-   </div>
-</div>
-
-
-<script src="https://smtpjs.com/v3/smtp.js"></script>
-<script>
-
-   document.getElementById("submitbtn").addEventListener("click", sendmail);
  
-   function sendmail() {
-
-    
-
-    let name = document.getElementById("name").value;
-    let email = document.getElementById("email").value;
-    let feedback = document.getElementById("feedback").value;
-
-    let cv = document.getElementById('cv').files[0];    
-    let resume = document.getElementById('resume').files[0];
-    var cvReader = new FileReader();
-    var resumeReader = new FileReader();
-    cvReader.readAsBinaryString(cv);
-    resumeReader.readAsBinaryString(resume);
-    
-    
-
-    let secureToken = "";
-    let bccMail = "jgmartinezb@gmail.com";
-    let fromMail = "entotechsolution@gmail.com";
-    
-    
-    
-
-    let path = window.location.pathname;
-    let subject = "";
-    let body = "";
-    let showmessage = "";
-    if (path.includes('/en/'))
-    {
-    subject = "Contactus  Form Information"
-    body = `Hello,<br>Following are detail come from contact form:
-    <hr>
-    <br>
-    Name  : ${name} <br>
-    Email  : ${email} <br>
-    Feedback  : ${feedback} <br>`
-    showmessage = "your mail is submitted sucessfully..."
-    }
-    else 
-    {
-    subject = "お問い合わせフォームのご案内"
-    body = `こんにちは <br> 以下は、お問い合わせフォームからのお問い合わせ内容です。:
-    <hr>
-    <br>
-    名称  : ${name} <br>
-    電子メール  : ${email} <br>
-    フィードバック  : ${feedback} <br>`
-    showmessage = "メールの送信に成功しました。"   
-    } 
-    
-
-    const cvPromice = new Promise((resolve, reject) => {
-      cvReader.onload = function () {
-        resolve()
-        };
-      });  
-    
-    const resumePromice = new Promise((resolve, reject) => {
-    resumeReader.onload = function () {
-      resolve()
-      };
-    });
-
-  
-
-    Promise.all([resumePromice, cvPromice]).then((values) => { 
-      var cv_uri = "data:" + cv.type + ";base64," + btoa(cvReader.result); 
-      var resumeUri = "data:" + resume.type + ";base64," + btoa(resumeReader.result);
-      
-      
-      
-      
-
-        Email.send({
-          SecureToken : secureToken,
-          To : email,
-          From : fromMail,
-          Bcc : bccMail,
-          Subject : subject,
-          Body : body,
-          Attachments : [
-            {
-              name : cv.name,
-          		data : cv_uri
-            },
-            {
-              name : resume.name,
-          		data : resumeUri
-            }
-          ]
-        }).then(
-          message => alert(showmessage)
-          );
-        });
 
 
-      
-  
-    
-    
-    
-    
-    
-    
-    
 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-         
 
-    
-    
-    
-    
+    <a href="https://entotechsolution.com/en/valor/proyeccionnegocio/" target="_blank"> <h3 style="color: red;">Image Not Available</h3></a>
 
-         
-    
-   }
+
+
+
+
+ </br></br>
+
    
-</script>
-     </div>
-
-   </div>
- </div>
+</div>
 
         </div>
 <footer class="container-fluid" style="background-color: #9CBE9C; color:white; padding-top: 30px !important;
