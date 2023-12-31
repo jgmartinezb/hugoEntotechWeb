@@ -13,7 +13,9 @@ image: "propuestaValor.jpg"
 
 <p>Nuestro objetivo es transformar, en el mismo lugar en el que se generan, la materia orgánica que se produce indirectamente durante las actividades diarias por productores alimentarios, mercados mayoristas, plantas de tratamiento... Entotech quiera dar una segunda vida a los desechos orgánicos, convertirlos en nuevo valor para nuestra sociedad. Las aplicaciones objetivo despues de esta transformación son múltiples, y aplican a diferentes areas de negocio como la alimentación animal, alimentación humana, sector médico...</p>
 
-<p>El pilar del proceso de transformación se basa en la utilización de insectos, y en concreto de la "Black Soldier Fly (BSF)", por todos los beneficios tanto por retorno de valor como de proceso que nos aporta. </p> </br>
+<p>El pilar del proceso de transformación se basa en la utilización de insectos, y en concreto de la "Black Soldier Fly (BSF)", por todos los beneficios tanto por retorno de valor como de proceso que nos aporta. </p> 
+
+<a href="https://www.w3schools.com/">Presentación </br>
 
 
 
