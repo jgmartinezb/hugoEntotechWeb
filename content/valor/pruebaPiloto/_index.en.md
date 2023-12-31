@@ -1,8 +1,9 @@
 ---
-title: "Eficientar proceso"
+title: "Propuesta proceso"
 description: "Primera Fase - Prueba piloto: Eficientar proceso transformación residuos orgánicos"
 date: 2022-05-31T10:02:12+05:30
 draft: false
+numpage: "page_2"
 image: "pruebaPiloto.jpg"
 ---
 <p><strong>¿Qué ofrece Entotech en la colaboración de la prueba piloto?</strong> Solución eficiente y sostenible para la gestión de los residuos orgánicos basada en economía circular.</p></br>
