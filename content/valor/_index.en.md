@@ -9,9 +9,11 @@ image: "propuestaValor.jpg"
 
 <H3>Entotech Solutions</H3>
 
-<p>El concepto de negocio que hemos estado validando y pivotando con el mercado se construye respecto el modelo de producción y consumo de economía circular. <strong>"Entotech Solutions" nace de la necesidad de una gestión más eficiente de los residuos orgánicos.</strong></p>
+<p>El concepto de negocio que Entotech ha estado validando y pivotando con el mercado se basa en el modelo de producción y consumo de economía circular. <strong>Entotech Solutions nace de la necesidad de una gestión más eficiente de los residuos orgánicos.</strong></p>
 
-<p>Nuestro objetivo es transformar la materia orgánica que se produce indirectamente durante las actividades diarias por productores alimentarios, mercados mayoristas, plantas de tratamiento... en el mismo lugar en el que se generan, y dar una segunda vida a los desechos orgánicos, convertirlos en nuevo valor para nuestra sociedad. Las aplicaciones objetivo despues de esta transformación son múltiples y aplican a diferentes areas de negocio como la alimentación animal, alimentación humana, sector médico...</p></br>
+<p>Nuestro objetivo es transformar, en el mismo lugar en el que se generan, la materia orgánica que se produce indirectamente durante las actividades diarias por productores alimentarios, mercados mayoristas, plantas de tratamiento... Entotech quiera dar una segunda vida a los desechos orgánicos, convertirlos en nuevo valor para nuestra sociedad. Las aplicaciones objetivo despues de esta transformación son múltiples, y aplican a diferentes areas de negocio como la alimentación animal, alimentación humana, sector médico...</p>
+
+<p>El pilar del proceso de transformación se basa en la utilización de insectos, y en concreto de la "Black Soldier Fly (BSF)", por todos los beneficios tanto por retorno de valor como de proceso que nos aporta. </p> </br>
 
 
 
