@@ -26,7 +26,7 @@ numpage: "page_1"
             <tr>
                 <td>Segunda Fase</td> 
                 <td>Prueba Piloto -- “Integración vertical de la incubadora de huevos BSF”</td> 
-                <td>Integración vertical del proceso del cultivo moscas</td>
+                <td>Proceder con la integración vertical el proceso del cultivo moscas</td>
                 <td>Segundo Año</td>
             </tr>
             <tr>
