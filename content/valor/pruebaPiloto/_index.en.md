@@ -13,9 +13,11 @@ image: "pruebaPiloto.jpg"
     <li> Beneficio por la utilización de la aplicación resultante </li>
 </p></br>
 
-<p><strong>¿Qué volumen de transformación de materia orgánica a aplicación/producto ofrecemos?</strong> La capacidad de transformación que ofrecemos por contenedor es de <strong>9000 Kg/Mes</strong></p>
+<p><strong>¿Qué volumen de transformación de materia orgánica a aplicación/producto ofrecemos?</strong> La capacidad de transformación que ofrecemos por contenedor es de <strong>9000 Kg/Mes</strong></p></br>
 
-<p><strong>¿Qué necesita Entotech para poder operar la prueba piloto?</strong> 
+<p><strong>¿Qué necesita Entotech para poder operar la prueba piloto?</strong> Entotech necesita de</p>
+
+<p>
     <li> Espacio para el contenedor de Entotech en el mismo recinto que la industria generadora de residuos </li>
     <li> Material orgánico </li>
 </p></br>
