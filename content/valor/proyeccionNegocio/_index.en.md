@@ -32,7 +32,7 @@ numpage: "page_1"
             <tr>
                 <td>Tercera Fase</td> 
                 <td>Apertura a nuevas aplicaciones</td> 
-                <td>Cultivo  industrial, otras aplicaciones...</td>
+                <td>Introducir nuestras aplicaciones en las cadena de valor de los sectores alimentario, agricultura, medicina, cosmética...</td>
                 <td>Tercer Año</td>
             </tr>
         </tbody>
