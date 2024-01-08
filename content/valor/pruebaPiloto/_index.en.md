@@ -8,7 +8,7 @@ image: "pruebaPiloto.jpg"
 ---
 <p><strong>¿Qué ofrece Entotech en la colaboración de la prueba piloto?</strong></p>
 
-<p>Solución eficiente y sostenible para la gestión de los residuos orgánicos basada en economía circular en el mismo lugar de la generación de la materia orgánica. Entontech transforma los residuos orgánicos en nuevo valor para la sociedad. La empresa colaboradora se beneficiaria con</p>     
+<p>Solución eficiente y sostenible para la gestión de los residuos orgánicos basada en economía circular en el mismo lugar de la generación de la materia orgánica. Entontech transforma los residuos orgánicos en nuevo valor para la sociedad. La empresa colaboradora se beneficiaria con</p></br>     
 
 <p>
     <li> Reducción de los costes variables por la actual gestión de los residuos orgánicos </li>
