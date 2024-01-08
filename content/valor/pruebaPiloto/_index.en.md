@@ -17,7 +17,7 @@ image: "pruebaPiloto.jpg"
 
 <p><strong>¿Qué volumen de procesado de materia orgánica a aplicación/producto ofrece Entotech?</strong></P> 
 
-<p>La capacidad estimada de transformación por contenedor es de <strong>9000 Kg/Mes.</strong> Los parámetros que pueden oscilar esta valor son los que están bajo estudio y es el objetivo de la prueba piloto.</p></br>
+<p>La capacidad estimada de transformación por contenedor es de 9000 Kg/Mes. Los parámetros que pueden oscilar esta valor son los que están bajo estudio y es el objetivo de la prueba piloto.</p></br>
 
 <p><strong>¿Qué necesita Entotech para poder operar la prueba piloto?</strong></p>
 
