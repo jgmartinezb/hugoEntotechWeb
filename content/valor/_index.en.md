@@ -15,7 +15,7 @@ image: "propuestaValor.jpg"
 
 <p>El pilar del proceso de transformación se basa en la utilización de insectos, y en concreto de la "Black Soldier Fly (BSF)", por todos los beneficios tanto por retorno de valor como de proceso que nos aporta.</p> 
 
-<a href="http://entotechpresentation.s3-website.eu-west-1.amazonaws.com/EntotechPresentation.pdf">Presentación Propuesta de Valor</a></br>
+<a href="https://entotechpresentation.s3.eu-west-1.amazonaws.com/EntotechPresentacionEnero.pdf">Presentación Propuesta de Valor</a></br>
 
 
 
