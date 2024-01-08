@@ -13,11 +13,11 @@ image: "pruebaPiloto.jpg"
 <p>
     <li> Reducción de los costes variables por la actual gestión de los residuos orgánicos </li>
     <li> Beneficio por la utilización de la aplicación/ producto resultante de la transformación</li>
-</p></br>
+</p>
 
 <p><strong>¿Qué volumen de procesado de materia orgánica a aplicación/producto ofrece Entotech?</strong></P> 
 
-<p>La capacidad estimada de transformación por contenedor es de 9000 Kg/Mes. Los parámetros que pueden oscilar esta valor son los que están bajo estudio y es el objetivo de la prueba piloto.</p></br>
+<p>La capacidad estimada de transformación por contenedor es de 9000 Kg/Mes. Los parámetros que pueden oscilar esta valor son los que están bajo estudio y es el objetivo de la prueba piloto.</p>
 
 <p><strong>¿Qué necesita Entotech para poder operar la prueba piloto?</strong></p>
 
